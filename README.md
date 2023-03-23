@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sundire
+- 👋 Hi, I’m Desire @Sundire
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Masters degree in Big Data Science
 - 💞️ I’m looking to collaborate on SQL Server, Oracle, PowerBI, Python, R and SQL Azure, etc.  
